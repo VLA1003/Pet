@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 191e20d9a72b09b44ad624561a4acb5c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Almonte
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 96dac3d1158824548978698370a9ac6b, type: 3}
+  - {fileID: 12800000, guid: d600c6f000fe9e94087e216c1729cf1d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
